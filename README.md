@@ -25,11 +25,5 @@ Demo: [Live Demo](https://portfoliovsevicky.herokuapp.com/loan)
 
 I also developed in all other kinds of Technology. You can find a general portfolio [here](https://github.com/donrockvic/General-development).
 
-<<<<<<< Updated upstream
-If you like what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot an email at [vicky123kumar22@gmail.com](mailto:vicky123kumar22@gmail.com).
 
-
- 
-=======
 If you like what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot an email at [vicky123kumar22@gmail.com](mailto:vicky123kumar22@gmail.com).
->>>>>>> Stashed changes
