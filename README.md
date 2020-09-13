@@ -9,7 +9,6 @@ You can checkout my website at [My Website](https://portfoliovsevicky.herokuapp.
  
 * [Fake or Real Disaster tweet](https://github.com/donrockvic/ML_projects/blob/master/Fake_real_Disaster_tweet/RealOrFakeTweets.ipynb)
 Predicted a disater Tweet is real or Fake using NLTK Tfdf, with an accuraccy of 80%. Also implemented data cleaning using python re and different NLP technique.
-
 Demo: [Live Demo](https://portfoliovsevicky.herokuapp.com/tweet) 
 
 * [Iris Flower Dataset](https://github.com/donrockvic/ML_projects/blob/master/IRIS_flower_classification/iris-dataset-supervised.ipynb):
