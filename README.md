@@ -7,7 +7,7 @@ You can check out my website at [My Website](https://portfoliovsevicky.herokuapp
 
 ## Contents
 
-* [Pet Adoption]() This was a Hacker competion wher you have to find weather the given Pet will be adopted or not based on the give features. I have created a model using Random Forest cclassfication algorithm.
+* [Pet Adoption](https://github.com/donrockvic/ML_projects/blob/master/Pet%20Adoption/hackerearth_pet_final.ipynb) This was a Hacker competion wher you have to find weather the given Pet will be adopted or not based on the give features. I have created a model using Gradient Boosting classfication algorithm.
 <br> Data: [Hackerearth](https://he-s3.s3.amazonaws.com/media/hackathon/hackerearth-machine-learning-challenge-pet-adoption/pet-adoption-9-5838c75b/a01c26dcd27711ea.zip?Signature=PwdcDvVZdhUObwHnvga6m4jd9o4%3D&Expires=1600055938&AWSAccessKeyId=AKIA6I2ISGOYH7WWS3G5)
 <br> [Competation Link](https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-pet-adoption/machine-learning/pet-adoption-9-5838c75b/)
  
