@@ -7,22 +7,22 @@ You can check out my website at [My Website](https://portfoliovsevicky.herokuapp
 
 ## Contents
 
-* [Pet Adoption](https://github.com/donrockvic/ML_projects/blob/master/Pet%20Adoption/hackerearth_pet_final.ipynb) This was a Hacker competion wher you have to find weather the given Pet will be adopted or not based on the give features. I have created a model using Gradient Boosting classfication algorithm.
+* [Pet Adoption](https://github.com/donrockvic/ML_projects/blob/master/Pet%20Adoption/hackerearth_pet_final.ipynb) This was a Hackerearth competion where you have to find weather the given Pet will be adopted or not based on the give features. I have created a model using Gradient Boosting classfication algorithm.
 <br> Data: [Hackerearth](https://he-s3.s3.amazonaws.com/media/hackathon/hackerearth-machine-learning-challenge-pet-adoption/pet-adoption-9-5838c75b/a01c26dcd27711ea.zip?Signature=PwdcDvVZdhUObwHnvga6m4jd9o4%3D&Expires=1600055938&AWSAccessKeyId=AKIA6I2ISGOYH7WWS3G5)
 <br> [Competation Link](https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-pet-adoption/machine-learning/pet-adoption-9-5838c75b/)
  
 * [Fake or Real Disaster tweet](https://github.com/donrockvic/ML_projects/blob/master/Fake_real_Disaster_tweet/RealOrFakeTweets.ipynb)
-Predicted a disaster Tweet is real or Fake using NLTK Tfdf, with an accuracy of 80%. Also implemented data cleaning using python re and different NLP techniques.
+Created a model which predict weather a disaster Tweet is real or Fake using NLTK Tfdf, with an accuracy of 80%. Also implemented data cleaning using python re and different NLP techniques.
 <br> Demo: [Live Demo](https://portfoliovsevicky.herokuapp.com/tweet) 
-<br> Data: [Kaggle]()
+<br> Data: [Kaggle](https://www.kaggle.com/c/nlp-getting-started/data)
 
 * [Iris Flower Dataset](https://github.com/donrockvic/ML_projects/blob/master/IRIS_flower_classification/iris-dataset-supervised.ipynb):
 Created a model to predict flower type on the Iris flower data set. I have implemented a data cleaning pipeline based on % of missing data using Scikit learn.
-<br> Data: [Kaggle]()
+<br> Data: [Kaggle](https://www.kaggle.com/arshid/iris-flower-dataset)
 
 * [Loan Prediction](https://github.com/donrockvic/ML_projects/blob/master/LoanPrediction/LoanPrediction.ipynb): A supervised learning model to predict whether one can get a loan or not using 12 features, both categorical and numerical.<br>
 Demo: [Live Demo](https://portfoliovsevicky.herokuapp.com/loan) 
-<br> Data: [Kaggle]()
+<br> Data: [Kaggle](https://www.kaggle.com/altruistdelhite04/loan-prediction-problem-dataset)
 
 * [Salary Prediction](https://github.com/donrockvic/ML_projects/blob/master/SalaryPrediction/model.py) : A simple regression salry prediction on the basic of year of experience, a test-score and interview score.
 <br>*Max score of test and interview is 10*  
